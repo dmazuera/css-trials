@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+
+
+.size {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.bar {
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+    margin-top: 0;
+    /*margin-left: 350px;*/
+}
